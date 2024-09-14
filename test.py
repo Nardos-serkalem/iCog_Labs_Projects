@@ -86,6 +86,7 @@ def extract_variables_from_atom(atom):
     return [var for var in re.findall(pattern, str(atom)) if "#" not in var]
 
 # Atom registraion
+
 #@register_atoms(pass_metta=True)
 def rand_str(run_context):
 
