@@ -17,4 +17,4 @@
    (Cons (TreeNode (Value C False LITERAL) Nil Nil) Nil)) Nil) Nil)) Nil)
 !(commandSetIterator
    (Cons (TreeNode (Value Nil False AND) (Cons (TreeNode (Value A False LITERAL) Nil Nil) Nil) Nil)
-   (Cons (TreeNode (Value Nil False OR) (Cons (TreeNode (Value B False LITERAL) Nil Nil)
+   
