@@ -1,1 +1,1 @@
-iCog Labs tasks
+iCog Labs tasks metta-moses-reduction and pattern miner
